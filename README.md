@@ -26,7 +26,7 @@
 - Powershell
 
 ### 3TH1C4L H4CK1NG
-- Web 0wnage
+- Web Pwnage
 - Elevating Privileges
 - Network Sniping
 - OSINT (Open-Source Recon)
